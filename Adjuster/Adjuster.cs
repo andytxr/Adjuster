@@ -11,7 +11,6 @@ namespace Adjuster
         
             static int qtde;
             static AdjusterBase adj = new AdjusterBase();
-            static int[] vetor = new int[qtde];
             static double perc;
 
             public static void QuantityReader()
